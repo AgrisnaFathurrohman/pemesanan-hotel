@@ -70,17 +70,16 @@ GriyaKarsa/
 │
 ├── /assets/
 │   │
-│   ├── /images/                
-│   ├── logo.png
+│   ├── /img/                
+│   │   └── logo.png
 │   │
 │   ├── /Css/               
-│   │   └── style.       
+│   │   └── style.css       
 │   │
-│   ├── /Css/               
-│   │   └── style.       
+│   ├── /Js/               
+│   │   └── script.js       
 │   │
-│   └── /review/  
-│       │              
+│   └── /review/            
 │       ├── beranda.PNG
 │       ├── kamar.PNG
 │       ├── pemesanan.PNG
