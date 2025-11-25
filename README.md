@@ -90,7 +90,7 @@ GriyaKarsa/
 ```
 ## 📸 Screenshots
 
-![App Screenshot](/assets/img/review/Beranda.PNG)
+![App Screenshot](/assets/img/review/beranda.PNG)
 
 ![App Screenshot](/assets/img/review/kamar.PNG)
 
